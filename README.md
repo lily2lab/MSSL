@@ -1,5 +1,5 @@
 # MSSL
-This is a TensorFlow implementation of TrajetorycCNN as described in the following paper: 
+This is a TensorFlow implementation of MSSL as described in the following paper: 
 
 ``Xiaoli Liu, Jianqin Yin, MSSL: Multi-scale Semi-decoupled Spatiotemporal Learning for 3D human motion prediction, 2021.''
 The paper is corresponding to the paper in ArXiv as follows:
